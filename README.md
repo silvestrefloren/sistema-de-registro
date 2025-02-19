@@ -4,3 +4,5 @@
 para ejectuar el sistema, debes poner:
 
 ```mps install react```
+
+sistema de registo 2
